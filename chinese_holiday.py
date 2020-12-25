@@ -229,4 +229,4 @@ def parse_holiday_info(url):
 if __name__ == "__main__":
     #notice_url = search_notice_url(2020)
     #holiday = parse_holiday_info(notice_url)
-    print(is_holiday('2019-10-10'))
+    print(is_holiday('2021-10-10'))
